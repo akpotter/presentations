@@ -1,0 +1,4 @@
+[submodule "2016-01-20_owasp-mtl/reveal.js"]
+	path = 2016-01-20_owasp-mtl/reveal.js
+	url = https://github.com/GoSecure/reveal.js.git
+	branch = theme-owasp
