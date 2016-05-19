@@ -6,3 +6,7 @@
 	path = 2016-04-07_atlseccon/reveal.js
 	url = https://github.com/GoSecure/reveal.js.git
 	branch = neutral-theme
+[submodule "2016-05-19_northsec/reveal.js"]
+	path = 2016-05-19_northsec/reveal.js
+	url = https://github.com/GoSecure/reveal.js.git
+	branch = neutral-theme
